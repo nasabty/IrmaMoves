@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1558746293 source:c:\users\nasba\onedrive\documents\data structures\projects\irma moves\irmamoves\irmamoves.c
+	"IrmaMoves.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1557985500 c:\users\nasba\onedrive\documents\data structures\projects\irma moves\irmamoves\irmamoves.h
+
+1557985500 source:c:\users\nasba\onedrive\documents\data structures\projects\irma moves\irmamoves\testcase01.c
+	<stdio.h>
+	<stdlib.h>
+	"IrmaMoves.h"
+
+1558576105 source:c:\users\nasba\onedrive\documents\data structures\projects\irma moves\irmamoves\testcase03.c
+	<stdio.h>
+	<stdlib.h>
+	"IrmaMoves.h"
+
+1557985500 source:c:\users\nasba\onedrive\documents\data structures\projects\irma moves\irmamoves\testcase04.c
+	<stdio.h>
+	<stdlib.h>
+	"IrmaMoves.h"
+
+1558576010 source:c:\users\nasba\onedrive\documents\data structures\projects\irma moves\irmamoves\testcase02.c
+	<stdio.h>
+	<stdlib.h>
+	"IrmaMoves.h"
+
+1558576153 source:c:\users\nasba\onedrive\documents\data structures\projects\irma moves\irmamoves\testcase05.c
+	<stdio.h>
+	<stdlib.h>
+	"IrmaMoves.h"
+
